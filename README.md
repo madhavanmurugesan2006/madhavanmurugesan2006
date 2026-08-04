@@ -1,8 +1,14 @@
-## 🐍 Contribution Snake
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/madhavanmurugesan2006/madhavanmurugesan2006/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Madhavan+M;🚀+AI+%26+Data+Science+Student;💻+Full+Stack+Developer;🤖+Machine+Learning+Enthusiast;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+
+<h3>🚀 AI & Data Science Student | Full Stack Developer | Machine Learning Enthusiast</h3>
+
+🎓 <b>Final Year B.Tech Artificial Intelligence & Data Science</b><br>
+🏫 <b>Indra Ganesan College of Engineering</b><br>
+📍 <b>Tamil Nadu, India</b>
+
+</div>
 ---
 
 # 🛠 Tech Stack
