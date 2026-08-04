@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Madhavan%20M&fontSize=50&fontColor=ffffff&animation=twinkling&color=gradient&desc=AI%20|%20Full%20Stack%20Developer%20|%20Machine%20Learning&descAlignY=60&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Madhavan%20M&fontSize=48&fontColor=ffffff&animation=twinkling&color=gradient"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Madhavan+M;🚀+AI+%26+Data+Science+Student;💻+Full+Stack+Developer;🤖+Machine+Learning+Enthusiast;🌟+Open+to+Software+Engineering+Roles"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=1000&center=true&vCenter=true&width=700&color=FF3B3B&lines=AI+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast;Python+Developer;Open+to+Software+Engineer+Roles" />
 
 </div>
+</div>
+---
 # 🛠 Tech Stack
 
 <p align="center">
