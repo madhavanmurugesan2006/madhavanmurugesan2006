@@ -1,16 +1,11 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Y5a2V5c2U0Y3J2aXpwYzA5c2V0c2Q4aDdycHpxdGd6YjV3ZzB3eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="450"/>
+<img alt="Coding" width="500" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 </div>
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-
-</div>
-<div align="center">
-
-<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="500"/>
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="600"/>
 
 </div>
 # 🛠 Tech Stack
