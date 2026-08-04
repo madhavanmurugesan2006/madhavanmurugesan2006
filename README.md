@@ -2,194 +2,107 @@
 
 # 👋 Hi, I'm Madhavan M
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Data+Science+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Real+World+AI+Projects;Open+to+Software+Developer+Opportunities" />
+### 🚀 AI & Data Science Student | Full Stack Developer | Machine Learning Enthusiast
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=250&section=header&text=Madhavan%20M&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Full%20Stack%20Developer%20%7C%20Machine%20Learning&descAlignY=60&descSize=20"/>
+🎓 Final Year B.Tech Artificial Intelligence & Data Science  
+🏫 Indra Ganesan College of Engineering  
+📍 Tamil Nadu, India
 
 </div>
 
 ---
 
-# 💫 About Me
-
-🎓 Final Year B.Tech Artificial Intelligence & Data Science Student
-
-🏫 Indra Ganesan College of Engineering
-
-💻 Passionate Full Stack Developer
-
-🤖 AI & Machine Learning Enthusiast
-
-🚀 Building AI-based Real World Projects
-
-🌱 Currently Learning
-
-- Generative AI
-- Retrieval Augmented Generation (RAG)
-- Cloud Computing
-- Advanced Python
-
-🎯 Career Goal
-
-To become a Software Engineer / AI Engineer in a leading product-based company.
-
----
-
-# 👨‍💻 Introduction
-
-```python
-class Madhavan:
-
-    def __init__(self):
-
-        self.name = "Madhavan M"
-
-        self.role = "AI & Full Stack Developer"
-
-        self.education = "B.Tech AI & Data Science"
-
-        self.college = "Indra Ganesan College of Engineering"
-
-        self.location = "Tamil Nadu, India"
-
-        self.languages = [
-            "Python",
-            "Java",
-            "SQL",
-            "JavaScript"
-        ]
-
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Web Development",
-            "Data Science"
-        ]
-
-    def say_hi(self):
-        return "Thanks for visiting my GitHub Profile!"
-
-me = Madhavan()
-
-print(me.say_hi())
-```
-
----
+# 🛠 Tech Stack
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,mysql,flask,tensorflow,opencv,git,github,vscode" />
+</p>
 
-![](https://komarev.com/ghpvc/?username=madhavanmurugesan2006&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-# 🛠️ Tech Stack
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-### 👨‍💻 Programming Languages
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=madhavanmurugesan2006&show_icons=true&theme=tokyonight"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://skillicons.dev/icons?i=java"/>
-<img src="https://skillicons.dev/icons?i=javascript"/>
-<img src="https://skillicons.dev/icons?i=html"/>
-<img src="https://skillicons.dev/icons?i=css"/>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavanmurugesan2006&theme=tokyonight"/>
 
----
-
-### 🚀 Frameworks & Libraries
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask"/>
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-<img src="https://skillicons.dev/icons?i=opencv"/>
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-</p>
-
----
-
-### 💻 Software & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git"/>
-<img src="https://skillicons.dev/icons?i=github"/>
-<img src="https://skillicons.dev/icons?i=vscode"/>
-<img src="https://skillicons.dev/icons?i=pycharm"/>
-<img src="https://skillicons.dev/icons?i=linux"/>
-</p>
-
----
-
-### ☁️ Currently Learning
-
-<p>
-
-<img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/RAG-0052CC?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge"/>
-
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavanmurugesan2006&layout=compact&theme=tokyonight"/>
 
 </div>
 
 ---
 
-# 📌 Core Skills
+# 🚀 Featured Projects
 
-| Category | Skills |
-|----------|---------|
-| 🤖 Artificial Intelligence | Machine Learning, Deep Learning |
-| 💻 Full Stack | HTML, CSS, JavaScript, Flask |
-| 🗄 Database | MySQL |
-| 📊 Data Analysis | Excel, Power BI |
-| 🔧 Version Control | Git, GitHub |
-| 🐍 Programming | Python, Java, SQL |
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| 🏥 AI-Powered Smart Healthcare Management System | Python, Flask, MySQL | AI-powered healthcare management system with patient management and appointment scheduling |
+| 🎬 Movie Search Website | HTML, CSS, JavaScript | Movie search platform using TMDB & OMDb APIs |
+| 🎭 Deepfake Detection | Python, TensorFlow | CNN-based deepfake image detection |
+| 🌾 Crop Disease Detection | Python, OpenCV | AI model for plant disease detection |
 
 ---
 
-# 🚀 What I Do
+# 💼 Work Experience
 
-✅ Build AI-Based Applications
+### 💻 Full Stack Developer Intern
+**Techzarinfo Software Solutions Pvt. Ltd.**
+📍 Tiruchirappalli, Tamil Nadu  
+📅 May 2026 – June 2026
 
-✅ Develop Full Stack Websites
-
-✅ Solve Real World Problems using Machine Learning
-
-✅ Work with APIs & Databases
-
-✅ Learn Modern AI Technologies
-
----
-
-# 🎯 Areas of Interest
-
-- Artificial Intelligence
-
-- Machine Learning
-
-- Full Stack Development
-
-- Computer Vision
-
-- Data Science
-
-- Cloud Computing
-
-- Open Source
+- 🚀 Developed an **AI-Powered Smart Healthcare Management System**
+- 💻 Built responsive web applications using **Python, Flask, HTML, CSS, JavaScript**
+- 🗄️ Designed and managed **MySQL** databases
+- 🔐 Implemented secure user authentication and role-based access
+- 📧 Integrated Email notifications and third-party APIs
+- 🤝 Worked in a team environment using Git & GitHub
 
 ---
 
-<p align="center">
+### 💻 Full Stack Python Intern
+**Appin Technology**
+📅 Dec 2025 – Jan 2026
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhavanmurugesan2006&theme=tokyonight"/>
-
-</p>
+- 🐍 Developed Python-based web applications
+- 🗄️ Worked with MySQL database integration
+- 🔧 Learned backend development and debugging
+- 🌐 Improved frontend and backend integration
 
 ---
 
-</p>
+# 🎓 Education
+
+| Qualification | Institution | Year |
+|---------------|------------|------|
+| 🎓 B.Tech Artificial Intelligence & Data Science | Indra Ganesan College of Engineering | 2023 – 2027 |
+| 📘 Higher Secondary (HSC) | Government Higher Secondary School | 2023 |
+| 📗 Secondary School (SSLC) | Government Higher Secondary School | 2021 |
+
+---
+
+# 🏆 Achievements
+
+- 🥈 Second Prize – Project Expo
+- 💼 Successfully completed Full Stack Internship at Techzarinfo
+- 💻 Successfully completed Full Stack Python Internship
+- 📜 Earned AI, Python & Full Stack Certifications
+- 🏅 Participated in Hacker Hunt
+- 🏐 Runner-up in College Volleyball Tournament
+
+---
+
+# 📚 Currently Learning
+
+- 🤖 Generative AI
+- 🧠 Large Language Models (LLMs)
+- 🔍 Retrieval-Augmented Generation (RAG)
+- ☁️ Cloud Computing
+- ⚡ Advanced Python
+- 🌐 Advanced Full Stack Development
+- 📊 Data Structures & Algorithms
+- 🐳 Docker Basics
+- ☸️ Kubernetes Fundamentals
 
 ---
