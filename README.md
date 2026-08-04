@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Madhavan+M;🚀+AI+%26+Data+Science+Student;💻+Full+Stack+Developer;🤖+Machine+Learning+Enthusiast;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Madhavan+M;AI+%26+Data+Science+Student;Full+Stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
 
-<h3>🚀 AI & Data Science Student | Full Stack Developer | Machine Learning Enthusiast</h3>
+### 🚀 AI & Data Science Student | Full Stack Developer | Machine Learning Enthusiast
 
-🎓 <b>Final Year B.Tech Artificial Intelligence & Data Science</b><br>
-🏫 <b>Indra Ganesan College of Engineering</b><br>
-📍 <b>Tamil Nadu, India</b>
+🎓 **Final Year B.Tech Artificial Intelligence & Data Science**  
+🏫 **Indra Ganesan College of Engineering**  
+📍 **Tamil Nadu, India**
 
 </div>
 ---
