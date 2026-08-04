@@ -1,36 +1,33 @@
 <div align="center">
 
-# 👋 Hi, I'm Madhavan M
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&lines=Hi+👋,+I'm+Madhavan+M;AI+%26+Data+Science+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Welcome+to+My+GitHub+Profile!" />
 
-### 🚀 AI & Data Science Student | Full Stack Developer | Machine Learning Enthusiast
+<h3>🚀 AI & Data Science Student | Full Stack Developer | Machine Learning Enthusiast</h3>
 
-🎓 Final Year B.Tech Artificial Intelligence & Data Science  
-🏫 Indra Ganesan College of Engineering  
-📍 Tamil Nadu, India
+<img src="https://komarev.com/ghpvc/?username=madhavanmurugesan2006&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,mysql,flask,tensorflow,opencv,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,mysql,flask,tensorflow,opencv,git,github,vscode&perline=6" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=madhavanmurugesan2006&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavanmurugesan2006&theme=tokyonight" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=madhavanmurugesan2006&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavanmurugesan2006&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavanmurugesan2006&layout=compact&theme=tokyonight"/>
-
-</div>
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavanmurugesan2006&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
