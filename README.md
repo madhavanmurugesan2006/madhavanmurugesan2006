@@ -2,11 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Madhavan%20M&fontSize=48&fontColor=ffffff&animation=twinkling&color=gradient"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=1000&center=true&vCenter=true&width=700&color=FF3B3B&lines=AI+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast;Python+Developer;Open+to+Software+Engineer+Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=1000&center=true&vCenter=true&width=700&color=FF3B3B&lines=AI+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast;Open+to+Software+Engineer+Roles" />
 
 </div>
-</div>
+
 ---
+
 # 🛠 Tech Stack
 
 <p align="center">
