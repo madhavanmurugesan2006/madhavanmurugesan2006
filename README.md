@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhavan M</h1>
-<h3 align="center">🚀 AI & Data Science Student | Full Stack Developer | AI Enthusiast</h3>
+<h3 align="center">🚀 Artificial Intelligence & Data Science Student | Full Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub!;AI+%7C+Machine+Learning+%7C+Full+Stack+Developer;Always+Learning+New+Technologies" />
@@ -36,19 +36,6 @@
 
 ![](https://streak-stats.demolab.com?user=madhavanmurugesan2006&theme=tokyonight)
 
----
-
-## 💻 Most Used Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=madhavanmurugesan2006&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=madhavanmurugesan2006&theme=tokyonight)
-
----
 
 ## 🚀 Featured Projects
 
