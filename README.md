@@ -20,20 +20,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=madhavanmurugesan2006&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavanmurugesan2006&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavanmurugesan2006&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
 
 # 🚀 Featured Projects
 
@@ -107,3 +93,14 @@
 - ☸️ Kubernetes Fundamentals
 
 ---
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=madhavanmurugesan2006&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavanmurugesan2006&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavanmurugesan2006&layout=compact&theme=tokyonight"/>
+
+</div>
