@@ -28,6 +28,9 @@
 </svg>
 
 </div>
+<p align="center">
+  <img src="./assets/rainbow-header.svg" alt="Rainbow Header"/>
+</p>
 
 # 🛠 Tech Stack
 
