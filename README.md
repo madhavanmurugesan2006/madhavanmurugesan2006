@@ -1,15 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:FF4D4D,100:8B0000&height=250&section=header&text=Madhavan%20M&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Full%20Stack%20Developer%20%7C%20Machine%20Learning&descAlignY=60&descSize=20"/>
+<svg width="900" height="80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff0000">
+        <animate attributeName="stop-color"
+          values="#ff0000;#ff7f00;#ffff00;#00ff00;#0000ff;#4b0082;#8f00ff;#ff0000"
+          dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#8f00ff">
+        <animate attributeName="stop-color"
+          values="#8f00ff;#ff0000;#ff7f00;#ffff00;#00ff00;#0000ff;#4b0082;#8f00ff"
+          dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Madhavan+M;🚀+AI+%26+Data+Science+Student;💻+Full+Stack+Developer;🤖+Machine+Learning+Enthusiast;🌟+Open+to+Software+Engineering+Roles"/>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=madhavanmurugesan2006&label=Profile%20Views&color=red&style=for-the-badge" />
-</p>
+  <text x="50%" y="50%"
+        dominant-baseline="middle"
+        text-anchor="middle"
+        font-size="34"
+        font-family="Poppins, Arial, sans-serif"
+        font-weight="bold"
+        fill="url(#rainbow)">
+    👋 Hi, I'm Madhavan M
+  </text>
+</svg>
 
 </div>
----
 
 # 🛠 Tech Stack
 
