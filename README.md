@@ -1,37 +1,10 @@
 <div align="center">
 
-<svg width="900" height="80" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ff0000">
-        <animate attributeName="stop-color"
-          values="#ff0000;#ff7f00;#ffff00;#00ff00;#0000ff;#4b0082;#8f00ff;#ff0000"
-          dur="8s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#8f00ff">
-        <animate attributeName="stop-color"
-          values="#8f00ff;#ff0000;#ff7f00;#ffff00;#00ff00;#0000ff;#4b0082;#8f00ff"
-          dur="8s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-  </defs>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Madhavan%20M&fontSize=50&fontColor=ffffff&animation=twinkling&color=gradient&desc=AI%20|%20Full%20Stack%20Developer%20|%20Machine%20Learning&descAlignY=60&descSize=20"/>
 
-  <text x="50%" y="50%"
-        dominant-baseline="middle"
-        text-anchor="middle"
-        font-size="34"
-        font-family="Poppins, Arial, sans-serif"
-        font-weight="bold"
-        fill="url(#rainbow)">
-    👋 Hi, I'm Madhavan M
-  </text>
-</svg>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Madhavan+M;🚀+AI+%26+Data+Science+Student;💻+Full+Stack+Developer;🤖+Machine+Learning+Enthusiast;🌟+Open+to+Software+Engineering+Roles"/>
 
 </div>
-<p align="center">
-  <img src="./assets/rainbow-header.svg" alt="Rainbow Header"/>
-</p>
-
 # 🛠 Tech Stack
 
 <p align="center">
