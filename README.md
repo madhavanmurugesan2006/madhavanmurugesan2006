@@ -1,8 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Madhavan%20M&fontSize=50&fontColor=ffffff&animation=twinkling&color=gradient&desc=AI%20|%20Full%20Stack%20Developer%20|%20Machine%20Learning&descAlignY=60&descSize=20"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Y5a2V5c2U0Y3J2aXpwYzA5c2V0c2Q4aDdycHpxdGd6YjV3ZzB3eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="450"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Madhavan+M;🚀+AI+%26+Data+Science+Student;💻+Full+Stack+Developer;🤖+Machine+Learning+Enthusiast;🌟+Open+to+Software+Engineering+Roles"/>
+</div>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
+</div>
+<div align="center">
+
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="500"/>
 
 </div>
 # 🛠 Tech Stack
