@@ -1,14 +1,18 @@
-<div align="center">
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Madhavan%20M&fontSize=55&fontColor=ffffff&animation=fade&fontAlignY=38&desc=AI%20%7C%20Full%20Stack%20Developer%20%7C%20Machine%20Learning&descAlignY=58" />
+</p>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Madhavan%20M&fontSize=55&fontColor=ffffff&animation=fade&fontAlignY=38&desc=AI%20%7C%20Full%20Stack%20Developer%20%7C%20Machine%20Learning&descAlignY=58" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Madhavan+M;AI+%26+Data+Science+Student;Full+Stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
-
-### 🚀 AI & Data Science Student | Full Stack Developer | Machine Learning Enthusiast
-
-🎓 **Final Year B.Tech Artificial Intelligence & Data Science**  
-🏫 **Indra Ganesan College of Engineering**  
-📍 **Tamil Nadu, India**
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Madhavan+M;AI+%26+Data+Science+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Welcome+to+My+GitHub+Profile!" />
+</p>
+type=waving
+type=rounded
+type=shark
+type=slice
+type=curve
 ---
 
 # 🛠 Tech Stack
