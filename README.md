@@ -6,11 +6,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Madhavan+M;AI+%26+Data+Science+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Welcome+to+My+GitHub+Profile!" />
 </p>
-type=waving
-type=rounded
-type=shark
-type=slice
-type=curve
+
 ---
 
 # 🛠 Tech Stack
