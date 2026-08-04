@@ -79,6 +79,116 @@ print(me.say_hi())
 <p align="center">
 
 ![](https://komarev.com/ghpvc/?username=madhavanmurugesan2006&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=javascript"/>
+<img src="https://skillicons.dev/icons?i=html"/>
+<img src="https://skillicons.dev/icons?i=css"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+---
+
+### 🚀 Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=flask"/>
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+<img src="https://skillicons.dev/icons?i=opencv"/>
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+</p>
+
+---
+
+### 💻 Software & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=pycharm"/>
+<img src="https://skillicons.dev/icons?i=linux"/>
+</p>
+
+---
+
+### ☁️ Currently Learning
+
+<p>
+
+<img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-0052CC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge"/>
+
+</p>
+
+</div>
+
+---
+
+# 📌 Core Skills
+
+| Category | Skills |
+|----------|---------|
+| 🤖 Artificial Intelligence | Machine Learning, Deep Learning |
+| 💻 Full Stack | HTML, CSS, JavaScript, Flask |
+| 🗄 Database | MySQL |
+| 📊 Data Analysis | Excel, Power BI |
+| 🔧 Version Control | Git, GitHub |
+| 🐍 Programming | Python, Java, SQL |
+
+---
+
+# 🚀 What I Do
+
+✅ Build AI-Based Applications
+
+✅ Develop Full Stack Websites
+
+✅ Solve Real World Problems using Machine Learning
+
+✅ Work with APIs & Databases
+
+✅ Learn Modern AI Technologies
+
+---
+
+# 🎯 Areas of Interest
+
+- Artificial Intelligence
+
+- Machine Learning
+
+- Full Stack Development
+
+- Computer Vision
+
+- Data Science
+
+- Cloud Computing
+
+- Open Source
+
+---
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhavanmurugesan2006&theme=tokyonight"/>
+
+</p>
+
+---
 
 </p>
 
