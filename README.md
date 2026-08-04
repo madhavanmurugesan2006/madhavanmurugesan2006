@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Madhavan M
 
-<!--
-**madhavanmurugesan2006/madhavanmurugesan2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.Tech Artificial Intelligence & Data Science Student
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Full Stack Developer
+- 🤖 AI & Machine Learning Enthusiast
+- 🐍 Python | Java | SQL
+- 🌱 Currently learning Advanced AI & Cloud Computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Python
+- HTML
+- CSS
+- JavaScript
+- SQL
+
+## 📂 Projects
+- AI Powered Smart Healthcare Management System
+- Movie Search Website
+  
+
+## 📫 Contact
+📧 madhavanmurugesan2006@gmail.com
+
+🔗 LinkedIn:
+https://linkedin.com/in/madhavan-murugesan-489320372
