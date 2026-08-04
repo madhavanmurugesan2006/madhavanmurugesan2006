@@ -1,15 +1,8 @@
-<div align="center">
+## 🐍 Contribution Snake
 
-# 👋 Hi, I'm Madhavan M
-
-### 🚀 AI & Data Science Student | Full Stack Developer | Machine Learning Enthusiast
-
-🎓 Final Year B.Tech Artificial Intelligence & Data Science  
-🏫 Indra Ganesan College of Engineering  
-📍 Tamil Nadu, India
-
-</div>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/madhavanmurugesan2006/madhavanmurugesan2006/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 ---
 
 # 🛠 Tech Stack
