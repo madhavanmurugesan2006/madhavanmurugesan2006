@@ -1,60 +1,85 @@
-<h1 align="center">Hi 👋, I'm Madhavan M</h1>
-<h3 align="center">🚀 Artificial Intelligence & Data Science Student | Full Stack Developer | AI Enthusiast</h3>
+<div align="center">
+
+# 👋 Hi, I'm Madhavan M
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Data+Science+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Real+World+AI+Projects;Open+to+Software+Developer+Opportunities" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=250&section=header&text=Madhavan%20M&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Full%20Stack%20Developer%20%7C%20Machine%20Learning&descAlignY=60&descSize=20"/>
+
+</div>
+
+---
+
+# 💫 About Me
+
+🎓 Final Year B.Tech Artificial Intelligence & Data Science Student
+
+🏫 Indra Ganesan College of Engineering
+
+💻 Passionate Full Stack Developer
+
+🤖 AI & Machine Learning Enthusiast
+
+🚀 Building AI-based Real World Projects
+
+🌱 Currently Learning
+
+- Generative AI
+- Retrieval Augmented Generation (RAG)
+- Cloud Computing
+- Advanced Python
+
+🎯 Career Goal
+
+To become a Software Engineer / AI Engineer in a leading product-based company.
+
+---
+
+# 👨‍💻 Introduction
+
+```python
+class Madhavan:
+
+    def __init__(self):
+
+        self.name = "Madhavan M"
+
+        self.role = "AI & Full Stack Developer"
+
+        self.education = "B.Tech AI & Data Science"
+
+        self.college = "Indra Ganesan College of Engineering"
+
+        self.location = "Tamil Nadu, India"
+
+        self.languages = [
+            "Python",
+            "Java",
+            "SQL",
+            "JavaScript"
+        ]
+
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Web Development",
+            "Data Science"
+        ]
+
+    def say_hi(self):
+        return "Thanks for visiting my GitHub Profile!"
+
+me = Madhavan()
+
+print(me.say_hi())
+```
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub!;AI+%7C+Machine+Learning+%7C+Full+Stack+Developer;Always+Learning+New+Technologies" />
+
+![](https://komarev.com/ghpvc/?username=madhavanmurugesan2006&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
 </p>
 
 ---
-
-## 👨‍💻 About Me
-
-- 🎓 Final Year B.Tech Artificial Intelligence & Data Science
-- 💻 Full Stack Developer
-- 🤖 AI & Machine Learning Enthusiast
-- 🌱 Learning Cloud Computing & Generative AI
-- 🚀 Building Real World AI Projects
-- 📍 India
-
----
-
-## 🛠 Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,flask,mysql,git,github,vscode,tensorflow" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=madhavanmurugesan2006&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![](https://streak-stats.demolab.com?user=madhavanmurugesan2006&theme=tokyonight)
-
-
-## 🚀 Featured Projects
-
-- 🏥 AI Powered Smart Healthcare Management System
-- 🎬 Movie Search Website
-- 🌾 Crop Disease Detection
-- 🎭 Deepfake Detection
-
----
-
-## 📫 Connect with Me
-
-- 📧 **madhavanmurugesan2006@gmail.com**
-- 💼 LinkedIn: https://linkedin.com/in/madhavan-murugesan-489320372
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=madhavanmurugesan2006&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
