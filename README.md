@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm Madhavan M
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:FF4D4D,100:8B0000&height=250&section=header&text=Madhavan%20M&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Full%20Stack%20Developer%20%7C%20Machine%20Learning&descAlignY=60&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=🚀+AI+%26+Data+Science+Student;💻+Full+Stack+Developer;🤖+Machine+Learning+Enthusiast;🌟+Open+to+Software+Engineering+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Madhavan+M;🚀+AI+%26+Data+Science+Student;💻+Full+Stack+Developer;🤖+Machine+Learning+Enthusiast;🌟+Open+to+Software+Engineering+Roles"/>
 
-🎓 **Final Year B.Tech Artificial Intelligence & Data Science**  
-🏫 **Indra Ganesan College of Engineering**  
-📍 **Tamil Nadu, India**
+<p>
+  <img src="https://komarev.com/ghpvc/?username=madhavanmurugesan2006&label=Profile%20Views&color=red&style=for-the-badge" />
+</p>
 
 </div>
 ---
