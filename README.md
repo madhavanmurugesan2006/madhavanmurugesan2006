@@ -97,7 +97,7 @@
 
 💼 Junior Data Scientist Intern
 **Judah Code Technologies**
-📍 Tiruchirappalli, Tamil Nadu, India
+📍 Tiruchirappalli, Tamil Nadu
  📅 June 2025 – July 2026
 
 
