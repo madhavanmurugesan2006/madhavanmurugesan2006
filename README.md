@@ -10,8 +10,49 @@
 
 # 🛠 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,mysql,flask,tensorflow,opencv,git,github,vscode" />
+## 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript" />
+</p>
+
+---
+
+## 🗄️ Database & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+</p>
+
+---
+
+## 📊 Data Visualization
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+---
+
+## 🤖 AI & Automation Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Claude_AI-7B68EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 </p>
 
 ---
@@ -44,6 +85,7 @@
 
 ### 💻 Full Stack Python Intern
 **Appin Technology**
+📍 Coimbatore, Tamil Nadu 
 📅 Dec 2025 – Jan 2026
 
 - 🐍 Developed Python-based web applications
@@ -51,6 +93,19 @@
 - 🔧 Learned backend development and debugging
 - 🌐 Improved frontend and backend integration
 
+---
+
+###💼 Junior Data Scientist Intern
+**Judah Code Technologies**
+📍 Tiruchirappalli, Tamil Nadu, India
+📅 June 2025 – July 2026
+
+
+- 🚀 Developed AI and data science solutions using Python for real-world business problems.
+- 📊 Performed data cleaning, preprocessing, visualization, and exploratory data analysis (EDA).
+- 🤖 Built and evaluated machine learning models for prediction and classification tasks.
+- 💻 Developed responsive web applications using Python, Flask, HTML, CSS, and JavaScript.
+  
 ---
 
 # 🎓 Education
